@@ -1,7 +1,5 @@
 # TSNE_KMeans_Cifar100
 
-# Overview
-
 The idea is to explore an image dataset, named cifar100. It has 60_000 colorful images. Thus, looking at each of them is not feasible. We are applying tSNE and kMeans and look at nearest neighbours (in the Euclidean metric). We will examine how TSNE and KMeans perform in clustering these images into meaningful groups.
 
 The goal is to:
